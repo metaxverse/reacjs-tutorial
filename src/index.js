@@ -121,7 +121,7 @@ import './index.css';
       return (
         <div className="game">
           <div className="game-board">
-            Hello Cloud
+            Hello Cloud  Update 1
             <Board
               squares={current.squares}
               onClick={(i) => this.handleClick(i)}
